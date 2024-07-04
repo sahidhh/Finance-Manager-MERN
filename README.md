@@ -12,9 +12,7 @@ Finance Manager is a full-stack finance management application designed to help 
 
 **Income and Expense Tracking**: Log and categorize income and expenses.
 
-**Budget Management**: Set and monitor budgets for different categories.
-
-**Financial Reports**: Generate reports to analyze financial data.
+**Budget Management**: View total income/expense.
 
 **Responsive Design**: Optimized for various devices and screen sizes.
 
