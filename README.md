@@ -9,17 +9,24 @@ Finance Manager is a full-stack finance management application designed to help 
 ## Features
 
 **User Authentication**: Secure login and registration system.
+
 **Income and Expense Tracking**: Log and categorize income and expenses.
+
 **Budget Management**: Set and monitor budgets for different categories.
-**Financial Reports**: Generate reports to analyze financial data.**
+
+**Financial Reports**: Generate reports to analyze financial data.
+
 **Responsive Design**: Optimized for various devices and screen sizes.
 
 
 ## Tech Stack
 
 **Frontend**: React.js, Typecript
+
 **Backend**: Node.js, Express.js
+
 **Database**: MongoDB
+
 **Version Control**: Git
 
 
@@ -38,14 +45,18 @@ Finance Manager is a full-stack finance management application designed to help 
 ### Set up environment variables:
 Create a .env file in the server directory.
 Add the following variables:
+
       MONGO_URI=your_mongodb_uri
       JWT_SECRET=your_jwt_secret
 
 ### Run the application:
 **Backend**:
+
       cd server
       npm start
+      
 **Frontend**:
+
       cd client
       npm start
 
