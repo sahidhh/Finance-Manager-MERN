@@ -3,6 +3,7 @@ import { FinancialRecordForm } from "./financial-record-form";
 import { FinancialRecordList } from "./financial-record-list";
 import { useFinancialRecords } from "../../contexts/financial-record-context";
 import { useMemo } from "react";
+import "./financial-record.css";
 
 export const Dashboard = () => {
   const { user } = useUser();
